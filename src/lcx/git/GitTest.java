@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("master text");
         System.out.println("hello,git2");
         System.out.println("hello,git5");
+        System.out.println("git hub");
     }
 }
